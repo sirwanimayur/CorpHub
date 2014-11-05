@@ -1,0 +1,11 @@
+{
+  "name": "corp-hub",
+  "version": "0.0.1",
+  "main": "app/server.js",
+  "dependencies": {
+    "express": "^4.10.1",
+    "mongoose": "^3.8.18",
+    "socket.io": "^1.2.0"
+  },
+  "devDependencies": {}
+}

@@ -5,6 +5,8 @@
   "dependencies": {
     "express": "^4.10.1",
     "mongoose": "^3.8.18",
+    "passport-google": "^0.3.0",
+    "passport-oauth2": "^1.1.2",
     "socket.io": "^1.2.0"
   },
   "devDependencies": {}

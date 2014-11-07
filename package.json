@@ -3,11 +3,15 @@
   "version": "0.0.1",
   "main": "app/server.js",
   "dependencies": {
+    "body-parser": "^1.9.2",
+    "crypto": "0.0.3",
     "express": "^4.10.1",
     "mongoose": "^3.8.18",
     "passport-google": "^0.3.0",
     "passport-oauth2": "^1.1.2",
     "socket.io": "^1.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "livereload": "^0.3.4"
+  }
 }
